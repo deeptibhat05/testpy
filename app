@@ -3,4 +3,5 @@ b = 5
 c=6
 d=1
 print(a*b*c*d)
-
+e=8
+print(e)
